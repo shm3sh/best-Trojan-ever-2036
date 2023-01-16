@@ -9,3 +9,14 @@ C:\Users\fish2\OneDrive\Документы\GitHub\best-Trojan-ever-2036\trojan\B
 C:\Users\fish2\OneDrive\Документы\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\obj\Debug\BestTrojanEver.csproj.CoreCompileInputs.cache
 C:\Users\fish2\OneDrive\Документы\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\obj\Debug\BestTrojanEver.exe
 C:\Users\fish2\OneDrive\Документы\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\obj\Debug\BestTrojanEver.pdb
+C:\Users\Katana\Documents\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\bin\Debug\BestTrojanEver.exe.config
+C:\Users\Katana\Documents\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\bin\Debug\BestTrojanEver.exe
+C:\Users\Katana\Documents\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\bin\Debug\BestTrojanEver.pdb
+C:\Users\Katana\Documents\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\obj\Debug\BestTrojanEver.csproj.AssemblyReference.cache
+C:\Users\Katana\Documents\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\obj\Debug\BestTrojanEver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katana\Documents\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\obj\Debug\BestTrojanEver.OtrizkaProduction.resources
+C:\Users\Katana\Documents\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\obj\Debug\BestTrojanEver.Properties.Resources.resources
+C:\Users\Katana\Documents\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\obj\Debug\BestTrojanEver.csproj.GenerateResource.cache
+C:\Users\Katana\Documents\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\obj\Debug\BestTrojanEver.csproj.CoreCompileInputs.cache
+C:\Users\Katana\Documents\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\obj\Debug\BestTrojanEver.exe
+C:\Users\Katana\Documents\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\obj\Debug\BestTrojanEver.pdb

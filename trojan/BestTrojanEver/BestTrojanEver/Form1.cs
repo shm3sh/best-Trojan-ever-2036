@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Media;
 
 namespace BestTrojanEver
 {
@@ -17,7 +18,7 @@ namespace BestTrojanEver
             base.OnKeyDown(e);
             if (e.KeyCode == Keys.F4 && e.Alt)
             {
-                MessageBox.Show("Тест");
+                MessageBox.Show("не пытайся закрыть дору <3");
                 e.Handled = true;
             }
         }
@@ -28,8 +29,8 @@ namespace BestTrojanEver
 
         private void OtrizkaProduction_Load(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"c:\Users\fish2\OneDrive\Документы\GitHub\best-Trojan-ever-2036\trojan\BestTrojanEver\BestTrojanEver\Resources\music.wav");
-            player.Play();
+            System.Media.SoundPlayer mainSound = new System.Media.SoundPlayer(@"music.wav");
+            mainSound.Play();
         }
     }
 }

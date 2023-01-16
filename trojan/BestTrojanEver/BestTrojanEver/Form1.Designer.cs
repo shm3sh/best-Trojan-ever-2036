@@ -1,6 +1,6 @@
 ﻿namespace BestTrojanEver
 {
-    partial class Form1
+    partial class OtrizkaProduction
     {
         /// <summary>
         /// Обязательная переменная конструктора.
@@ -28,10 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // OtrizkaProduction
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::BestTrojanEver.Properties.Resources._4545;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "OtrizkaProduction";
+            this.Text = "DoraLapo4ka";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.OtrizkaProduction_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion

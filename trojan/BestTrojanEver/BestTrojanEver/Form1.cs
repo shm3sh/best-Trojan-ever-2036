@@ -50,6 +50,7 @@ namespace BestTrojanEver
         {
             MessageBox.Show("gg");
             while (true) { }
+                
         }
     }
 }

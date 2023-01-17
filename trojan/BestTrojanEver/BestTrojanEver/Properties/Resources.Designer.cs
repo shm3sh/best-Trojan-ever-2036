@@ -69,15 +69,5 @@ namespace BestTrojanEver.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cQ5DidTdBWc {
-            get {
-                object obj = ResourceManager.GetObject("cQ5DidTdBWc", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

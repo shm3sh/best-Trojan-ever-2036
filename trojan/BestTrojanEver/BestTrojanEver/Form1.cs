@@ -16,7 +16,6 @@ namespace BestTrojanEver
     public partial class OtrizkaProduction : Form
     {
         public Thread processSearch;
-        
 
         protected override void OnKeyDown(KeyEventArgs e)
         {
